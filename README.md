@@ -8,7 +8,6 @@ Developed a Brick Breaker Game using Java Swing
 
 ![lol2](https://user-images.githubusercontent.com/35209670/58374460-83423480-7f0c-11e9-8110-802f73ce168c.png)
 
-![lol](https://user-images.githubusercontent.com/35209670/58374461-83423480-7f0c-11e9-9e7f-f8928e1fd789.png)
 
 
 
